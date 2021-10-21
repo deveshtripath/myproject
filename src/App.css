@@ -4,6 +4,32 @@ p {
     height: 22px !important;
 }
 
+.ram {
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    background: #FFFFFF;
+}
+
+.ramu {
+    position: absolute;
+    width: 443px;
+    height: 223px;
+    left: 19px;
+    top: 123px;
+    background: #FFFFFF;
+    border-radius: 12px;
+}
+
+.raj {
+    position: absolute;
+    left: 7.93%;
+    right: 50.68%;
+    top: 67.25%;
+    bottom: 69.82%;
+    background: #666565;
+}
+
 #val {
     padding-left: 200px;
     font-size: 21px;
@@ -98,6 +124,7 @@ p {
     text-align: left !important;
     margin-left: 95px;
     margin-bottom: 10px;
+    margin-top: 300px;
 }
 
 .extra-butt-color {
